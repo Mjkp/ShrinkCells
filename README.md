@@ -1,6 +1,17 @@
 # ShrinkCells: Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heating
 
+
+<p align="left">
+<img src="images/shrinkcell_length.png" width="30%" />
+</p>
+<p align="left">
+<img src="images/max_shrink.png" width="30%" />
+</p>
+
 This is the repository for the ShrinkCells Generator in Rhino3D used in the UIST 2022 paper "ShrinkCells: Localized and Sequential Shape-Changing Actuation of 3D-Printed Objects via Selective Heating". Additionally we included STL samples with power supply details. 
+
+
+
 
 ## Materials
 
